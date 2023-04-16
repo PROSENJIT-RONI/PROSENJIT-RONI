@@ -42,6 +42,8 @@
 <a href="https://leetcode.com/Prosenjit_2002/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/leetcode_button_icon_151892.png" alt="LeetCode" width="150" height="40"/> </a>
 &emsp;&emsp;
 </p>
+<h3 align="left">Hacktoberfest 2022:</h3>
+<p align="left" >
 <hr></hr>
 <details>
 <summary>
